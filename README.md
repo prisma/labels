@@ -11,7 +11,7 @@ Only used for labels, which we copy to new repositories.
 
 ## First, check the labels on the destination repository
 
-When a repository is created it comes with default labels.
+When a repository is created it comes with default labels.  
 Go to https://github.com/prisma/my-destination-repo/labels and delete labels before copying the new ones.
 
 ## Second, copy the labels to the destination repository
