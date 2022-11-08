@@ -10,9 +10,8 @@ Only used for labels, which we copy to new repositories.
 - Run `gh auth login`
 
 ## First, check the labels on the destination repository
-
-When a repository is created it comes with default labels.  
-Go to https://github.com/prisma/my-destination-repo/labels and delete labels before copying the new ones.
+ 
+Go to the repository where you want to copy the labels, https://github.com/prisma/my-destination-repo/labels and delete uneeded labels.
 
 ## Second, copy the labels to the destination repository
 
