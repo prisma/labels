@@ -9,7 +9,12 @@ Only used for labels, which we copy to new repositories.
 - Install GitHub CLI: https://github.com/cli/cli#installation
 - Run `gh auth login`
 
-## Copying the labels to another repository
+## First, check the labels on the destination repository
+
+When a repository is created it comes with default labels.
+Go to https://github.com/prisma/my-destination-repo/labels and delete labels before copying the new ones.
+
+## Second, copy the labels to the destination repository
 
 Using the command below, it will copy the [existing labels of this repository](https://github.com/prisma/labels/labels) to the repository defined, here `prisma/my-destination-repo` as an example.
 
