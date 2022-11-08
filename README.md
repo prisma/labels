@@ -11,7 +11,7 @@ Only used for labels, which we copy to new repositories.
 
 ## First, check the labels on the destination repository
  
-Go to the repository where you want to copy the labels, https://github.com/prisma/my-destination-repo/labels and delete uneeded labels.
+Go to the repository where you want to copy the labels, https://github.com/prisma/my-destination-repo/labels and delete unwanted labels.
 
 ## Second, copy the labels to the destination repository
 
