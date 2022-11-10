@@ -1,6 +1,6 @@
 # orm-labels
 
-This repository is only used to configure [GitHub labels](./labels), which are then copied over to new repositories.
+This repository is only used to configure [GitHub labels](../../labels), which are then copied over to new repositories.
 
 ## How to use
 
@@ -16,7 +16,7 @@ Go to the repository where you want to copy the labels, https://github.com/prism
 
 ### Second, copy the labels to the destination repository
 
-Using the command below, copy the [existing labels of this repository](./labels) to the repository defined, here `prisma/my-destination-repo` as an example:
+Using the command below, copy the [existing labels of this repository](../../labels) to the repository defined, here `prisma/my-destination-repo` as an example:
 
 ```
 gh label clone prisma/labels --repo prisma/my-destination-repo
