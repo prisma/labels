@@ -19,8 +19,8 @@ Go to the repository where you want to copy the labels, https://github.com/prism
 Using the command below, copy the [existing labels of this repository](../../labels) to the repository defined, here `prisma/my-destination-repo` as an example:
 
 ```
-gh label clone prisma/labels --repo prisma/my-destination-repo
-! Cloned 35 labels of 44 from prisma/prisma-labels to prisma/my-destination-repo
+gh label clone prisma/orm-labels --repo prisma/my-destination-repo
+! Cloned 35 labels of 44 from prisma/orm-labels to prisma/my-destination-repo
 ```
 
 See https://cli.github.com/manual/gh_label_clone documentation for more information.
